@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\bin\Debug\net8.0\Problema 1.1-ProgII.exe
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\bin\Debug\net8.0\Problema 1.1-ProgII.deps.json
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\bin\Debug\net8.0\Problema 1.1-ProgII.runtimeconfig.json
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\bin\Debug\net8.0\Problema 1.1-ProgII.dll
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\bin\Debug\net8.0\Problema 1.1-ProgII.pdb
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.dll
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\refint\Problema 1.1-ProgII.dll
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.pdb
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\Problema 1.1-ProgII.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Problema 1.1-ProgII\obj\Debug\net8.0\ref\Problema 1.1-ProgII.dll
